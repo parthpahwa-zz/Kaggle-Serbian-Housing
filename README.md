@@ -1,2 +1,2 @@
-# Kaggle-Serbian-Housing
-Kaggle Serbian Housing Challenge
+# Kaggle-Sberbank-Housing
+Kaggle Sberbank Housing Challenge
